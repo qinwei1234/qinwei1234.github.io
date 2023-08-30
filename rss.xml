@@ -8,7 +8,7 @@
         <author>
           <name>秦伟</name>
         </author>
-        <description>blog</description>
+        <description>所有无声的日子都在时光中沉淀</description>
         <language>zh-CN</language>
         <pubDate>Tue, 29 Aug 2023 05:49:36 +0800</pubDate>
         <lastBuildDate>Tue, 29 Aug 2023 05:49:36 +0800</lastBuildDate>
@@ -16,10 +16,10 @@
         <category term="随记" />
         <category term="机器学习" />
         <item>
-            <guid isPermalink="true">https://qinwei1234.github.io/computer-science/python/course-1/%E5%8D%9A%E5%AE%A2%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</guid>
+            <guid isPermalink="true">https://qinwei1234.github.io/computer-science/java/course-1/%E5%8D%9A%E5%AE%A2%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</guid>
             <title>博客问题与总结</title>
-            <link>https://qinwei1234.github.io/computer-science/python/course-1/%E5%8D%9A%E5%AE%A2%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</link>
-            <category term="博客；建站" scheme="https://qinwei1234.github.io/tags/%E5%8D%9A%E5%AE%A2%EF%BC%9B%E5%BB%BA%E7%AB%99/" />
+            <link>https://qinwei1234.github.io/computer-science/java/course-1/%E5%8D%9A%E5%AE%A2%E5%87%BA%E7%8E%B0%E9%97%AE%E9%A2%98%E6%80%BB%E7%BB%93/</link>
+            <category term="博客，建站" scheme="https://qinwei1234.github.io/tags/%E5%8D%9A%E5%AE%A2%EF%BC%8C%E5%BB%BA%E7%AB%99/" />
             <pubDate>Tue, 29 Aug 2023 05:49:36 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;新建删除文章&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新建删除文章&#34;&gt;#&lt;/a&gt; 新建 / 删除文章&lt;/h1&gt;
 &lt;p&gt;新建文章，根目录下 &lt;code&gt;hexo new &amp;quot;文章名&amp;quot;&lt;/code&gt; ，编辑并保存之后，bash 中依次执行&lt;/p&gt;
@@ -34,12 +34,28 @@
 &lt;p&gt;Front Matter 里面设置： &lt;code&gt;sticky: true&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;问题汇总&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题汇总&#34;&gt;#&lt;/a&gt; 问题汇总&lt;/h1&gt;
 &lt;ol&gt;
-&lt;li&gt;网站加载慢，能否加速？&lt;/li&gt;
-&lt;li&gt;网站顶部搜索打开后输入并不能使用&lt;/li&gt;
-&lt;li&gt;首页背景更换&lt;/li&gt;
-&lt;li&gt;分类页面翻转问题&lt;/li&gt;
-&lt;li&gt;音乐播放&lt;/li&gt;
-&lt;li&gt;点击 “关于” 后一直加载&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网站加载慢，能否加速？&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;网站顶部搜索打开后输入并不能使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;首页背景更换&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;分类页面翻转问题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;音乐播放&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;点击 “关于” 后一直加载&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;链接内部文章&lt;/p&gt;
+&lt;p&gt;[hello-world](&lt;a href=&#34;https://qinwei1234.github.io/hello-world/&#34;&gt;Hello World | 秦伟の时光胶囊 = 学习驿站 = 时光荏苒，不负韶华 (qinwei1234.github.io)&lt;/a&gt;)&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
  ]]></description>
         </item>
