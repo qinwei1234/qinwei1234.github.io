@@ -24,7 +24,7 @@
 &lt;p&gt;&lt;img data-src=&#34;https://qin-wei.oss-cn-beijing.aliyuncs.com/notes_img/202308301125609.png&#34; alt=&#34;image-20230830112523490&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;​	解决方案：执行  &lt;code&gt;npm install hexo-deployer-git --save&lt;/code&gt;  更新 deployer&lt;/p&gt;
 &lt;h1 id=&#34;文章封面设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章封面设置&#34;&gt;#&lt;/a&gt; 文章封面设置&lt;/h1&gt;
-&lt;p&gt;Front Matter 里面设置 cover 路径： &lt;code&gt;cover: assets/hexo1  &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Front Matter 里面设置 cover 路径： &lt;code&gt;cover: assets/hexo1.jpg  &lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;文章置顶设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章置顶设置&#34;&gt;#&lt;/a&gt; 文章置顶设置&lt;/h1&gt;
 &lt;p&gt;Front Matter 里面设置： &lt;code&gt;sticky: true&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;问题汇总&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题汇总&#34;&gt;#&lt;/a&gt; 问题汇总&lt;/h1&gt;
@@ -37,7 +37,7 @@
 &lt;li&gt;点击 “关于” 后一直加载&lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <category term="博客,建站" scheme="https://qinwei1234.github.io/tags/%E5%8D%9A%E5%AE%A2-%E5%BB%BA%E7%AB%99/" />
+        <category term="博客；建站" scheme="https://qinwei1234.github.io/tags/%E5%8D%9A%E5%AE%A2%EF%BC%9B%E5%BB%BA%E7%AB%99/" />
         <updated>2023-08-28T21:49:36.000Z</updated>
     </entry>
     <entry>
