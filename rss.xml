@@ -40,10 +40,13 @@
 &lt;p&gt;&lt;code&gt;hexo d&lt;/code&gt;  出现以下问题：&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://qin-wei.oss-cn-beijing.aliyuncs.com/notes_img/202308301125609.png&#34; alt=&#34;image-20230830112523490&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;​	解决方案：执行  &lt;code&gt;npm install hexo-deployer-git --save&lt;/code&gt;  更新 deployer&lt;/p&gt;
-&lt;h1 id=&#34;文章封面设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章封面设置&#34;&gt;#&lt;/a&gt; 文章封面设置&lt;/h1&gt;
+&lt;h1 id=&#34;首页&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#首页&#34;&gt;#&lt;/a&gt; 首页&lt;/h1&gt;
+&lt;h2 id=&#34;文章封面设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章封面设置&#34;&gt;#&lt;/a&gt; 文章封面设置&lt;/h2&gt;
 &lt;p&gt;Front Matter 里面设置 cover 路径： &lt;code&gt;cover: assets/hexo1.jpg  &lt;/code&gt;&lt;/p&gt;
-&lt;h1 id=&#34;文章置顶设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章置顶设置&#34;&gt;#&lt;/a&gt; 文章置顶设置&lt;/h1&gt;
+&lt;h2 id=&#34;文章置顶设置&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章置顶设置&#34;&gt;#&lt;/a&gt; 文章置顶设置&lt;/h2&gt;
 &lt;p&gt;Front Matter 里面设置： &lt;code&gt;sticky: true&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;文章首页分类背景图片&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#文章首页分类背景图片&#34;&gt;#&lt;/a&gt; 文章首页分类背景图片&lt;/h2&gt;
+&lt;p&gt;格式必须为 &lt;code&gt;.jpg&lt;/code&gt;&lt;/p&gt;
 &lt;h1 id=&#34;问题汇总&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#问题汇总&#34;&gt;#&lt;/a&gt; 问题汇总&lt;/h1&gt;
 &lt;ol&gt;
 &lt;li&gt;
